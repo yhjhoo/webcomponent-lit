@@ -17,6 +17,8 @@ copy rollup.config.js to local and
 
 to package.json
 
+Reference: https://open-wc.org/docs/development/generator/#usage
+
 ## Open-wc Starter App
 
 [![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
